@@ -1,3 +1,9 @@
+Input Data
+
+![Input Data](https://user-images.githubusercontent.com/32334380/138399219-41102d8f-9e53-41f3-a87d-ec40093f5626.png)
+
+
+
 Below are the few plots with differnt DNN model initialization and Data points being the same.
 
 Lambda Matrix for Random Init
