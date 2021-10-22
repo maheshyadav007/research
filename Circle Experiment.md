@@ -3,6 +3,7 @@ Input Data
 ![Input Data](https://user-images.githubusercontent.com/32334380/138399219-41102d8f-9e53-41f3-a87d-ec40093f5626.png)
 
 Regenerated Data with trained model(MSE  = .003)
+![regenerated](https://user-images.githubusercontent.com/32334380/138399484-95e724c0-61c7-445f-94f0-7f128e88721e.png)
 
 Below are the few plots with differnt DNN model initialization and Data points being the same.
 
