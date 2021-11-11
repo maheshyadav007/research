@@ -45,3 +45,7 @@ Below are the plots of Kernels of each layer(3 layer models)
 ![K_arctan2(X _,1 ,X _,0  )(Learnt)NPF-NPV Arch](https://user-images.githubusercontent.com/32334380/140611396-741eacd7-41e9-4ab5-82f2-e8fba4b81ab7.png)
 ![K_arctan2(X _,1 ,X _,0  )(Random)](https://user-images.githubusercontent.com/32334380/140611397-204bb358-4bc3-40de-9452-45209f06475d.png)
 ![K_arctan2(X _,1 ,X _,0  )(Random)NPF-NPV Arch](https://user-images.githubusercontent.com/32334380/140611399-536956bc-97bc-4201-bcab-44be4928ab88.png)
+
+Hyperplanes Visualization
+![all_hyperplanes](https://user-images.githubusercontent.com/32334380/141240917-be2972e0-dfd5-4c67-ad86-c17d01b06c7c.png)
+
