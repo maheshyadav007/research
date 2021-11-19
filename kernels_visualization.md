@@ -21,3 +21,7 @@ Depth of all the models = 3
 ![DLGN2](https://user-images.githubusercontent.com/32334380/142596163-518be221-98e0-4cd6-a34e-e84ef5272e80.png)
 ![DLGN-SF](https://user-images.githubusercontent.com/32334380/142596187-e2ca6386-fdef-4b88-85b4-9d7b5fc917c6.png)
 ![DLGN-SF2](https://user-images.githubusercontent.com/32334380/142596194-feac0f35-d939-48f9-a98c-26e38322fe58.png)
+
+
+![dlgnanddlgnsf](https://user-images.githubusercontent.com/32334380/142599373-a2d26c06-00cc-4e8c-83a5-b0a432d004fa.png)
+
