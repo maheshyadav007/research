@@ -29,6 +29,14 @@
 ![DLGNSF15](https://user-images.githubusercontent.com/32334380/143840550-f1a1b50b-1d13-4389-b456-6144ed527aeb.png)
 ![DLGNSF16](https://user-images.githubusercontent.com/32334380/143840551-4c9e3095-4e95-4099-b733-4c9dc469ee35.png)
 
+DLGN, DLGN-SF(256, 512) Models : \
+
+![DLGN256_1](https://user-images.githubusercontent.com/32334380/143843452-c93ffaf0-188b-4617-9b4a-5974ab833822.png)
+![DLGN256_2](https://user-images.githubusercontent.com/32334380/143843454-b36dc6bc-8df1-4a6b-93e0-a7d86e224149.png)
+![DLGNSF256_1](https://user-images.githubusercontent.com/32334380/143843442-2079a35d-48db-4aa6-aee2-2aca23bb16df.png)
+![DLGNSF256_2](https://user-images.githubusercontent.com/32334380/143843449-8e7c2555-ebd4-4d45-8744-271907c50166.png)
+
+
 1 Layer Models:\
 ![MLP_1](https://user-images.githubusercontent.com/32334380/143842000-5dc99b5f-b20b-4874-84f7-0cbfd7a41f4c.png)
 ![DGN_1layer](https://user-images.githubusercontent.com/32334380/143841988-d851769e-bfcb-41e2-9d44-c643380a0c4a.png)
