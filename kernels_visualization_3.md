@@ -1,3 +1,5 @@
+[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661863/sin10_all_output.csv)
+[sin4_all_output.csv](https://github.com/maheshyadav007/research/files/7661864/sin4_all_output.csv)
 K = K1xK2xK3x.. (where Ki is the kernel of ith hidden layer) \
 n_h_l := number of hidden layers \
 n_n := number of neurons in each layer \
@@ -68,4 +70,9 @@ MLP, DGN, DLGN, DLGN-SF(sin(4x))
 ![7](https://user-images.githubusercontent.com/32334380/144875073-0c2e8fca-f89f-4be9-9762-0c110d9f7b3b.png)
 ![8](https://user-images.githubusercontent.com/32334380/144875075-104f2b25-31a5-4aca-8d07-323eddd20a74.png)
 ![9](https://user-images.githubusercontent.com/32334380/144875079-70243a3b-2628-41e4-9c09-6b14fcb479b6.png)
+
+Y'KY values corresponding to all models for sin(10x) input \
+[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661868/sin10_all_output.csv)
+Y'KY values corresponding to all models for sin(4x) input \
+[sin4_all_output.csv](https://github.com/maheshyadav007/research/files/7661869/sin4_all_output.csv)
 
