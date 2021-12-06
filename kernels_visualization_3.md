@@ -1,8 +1,10 @@
-![1](https://user-images.githubusercontent.com/32334380/144851229-51c642ed-7332-400c-a4ec-48eb42ccac21.png)
-![2](https://user-images.githubusercontent.com/32334380/144851236-1151a076-39ad-48a3-8a13-edfd76d54e40.png)
-![3](https://user-images.githubusercontent.com/32334380/144851239-dc685425-204d-4505-9a11-ec0b9a0b4eee.png)
-MLP(sin(10x))
+K = K1*K2*K3*.. (where Ki is the kernel of ith hidden layer)
+n_h_l := number of hidden layers
+n_n := number of neurons in each layer
+Y'KY_n = normalized Y'KY ( Y'KY/largest eigen value)
 
+
+MLP
 ![1](https://user-images.githubusercontent.com/32334380/144844279-b7a20b55-cc18-4c94-97fd-a11c9d44f49b.png)
 ![2](https://user-images.githubusercontent.com/32334380/144844290-11604f71-001b-43c2-82c6-a9c495681b9f.png)
 ![3](https://user-images.githubusercontent.com/32334380/144844294-5100c812-4262-4a9e-967b-9d5a002b2614.png)
@@ -39,7 +41,7 @@ DLGN, DLGN-SF(n_h_l = 6, 7, 8)
 ![17](https://user-images.githubusercontent.com/32334380/144845045-c5e8f1f9-2d5b-413e-ba21-00b6e3545638.png)
 ![18](https://user-images.githubusercontent.com/32334380/144845046-1066a038-9e3d-419d-9975-d3e3502e5b53.png)
 
-DLGN, DLGN-SF(n_h_l = 256, 512)
+DLGN, DLGN-SF(n_n = 256, 512)
 ![1](https://user-images.githubusercontent.com/32334380/144847127-9e7bcce5-ba23-4934-a160-6f3e6acb3d58.png)
 ![2](https://user-images.githubusercontent.com/32334380/144847134-e9a5540c-8a0c-48be-b393-91b02108131a.png)
 ![3](https://user-images.githubusercontent.com/32334380/144847135-9bb986dd-4442-469e-be1a-e7c7441db01f.png)
