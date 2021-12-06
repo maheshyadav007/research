@@ -1,7 +1,7 @@
-K = K1*K2*K3*.. (where Ki is the kernel of ith hidden layer)
-n_h_l := number of hidden layers
-n_n := number of neurons in each layer
-Y'KY_n = normalized Y'KY ( Y'KY/largest eigen value)
+K = K1xK2xK3x.. (where Ki is the kernel of ith hidden layer) \
+n_h_l := number of hidden layers \
+n_n := number of neurons in each layer \
+Y'KY_n = normalized Y'KY ( Y'KY/largest eigen value) 
 
 
 MLP
@@ -54,9 +54,18 @@ MLP, DGN, DLGN, DLGN-SF(n_h_l = 1)
 ![1](https://user-images.githubusercontent.com/32334380/144853582-90a62f69-489b-433a-8c6d-b0ac03aab872.png)
 ![2](https://user-images.githubusercontent.com/32334380/144853618-e4a16765-9074-42a9-9ca6-4d970d4014d4.png)
 
-All the below experiments are done by changing input to sin(4x) instead of sin(10x)
-MLP( sin(4x))
+All the below experiments are done by changing input to sin(4x) instead of sin(10x) \
+MLP, DGN, DLGN, DLGN-SF(sin(4x))
 ![1](https://user-images.githubusercontent.com/32334380/144851265-1cee0695-bb3a-42af-9f75-0b8dd225693e.png)
 ![2](https://user-images.githubusercontent.com/32334380/144851273-f3660e0c-0a38-4589-9615-6c206bfff691.png)
 ![3](https://user-images.githubusercontent.com/32334380/144851278-636f1ac6-46f5-4bb0-b7df-f48bdc32f6e4.png)
+![1](https://user-images.githubusercontent.com/32334380/144875047-6fb1c44a-b45e-41f8-ba6b-f6370ad9f641.png)
+![2](https://user-images.githubusercontent.com/32334380/144875061-f98bddce-7be6-457e-beab-9a6052d47ae8.png)
+![3](https://user-images.githubusercontent.com/32334380/144875065-163dabe6-b6dd-409e-913c-af0154bb92e2.png)
+![4](https://user-images.githubusercontent.com/32334380/144875066-aea07d41-cc27-4494-a296-ff644883ce65.png)
+![5](https://user-images.githubusercontent.com/32334380/144875068-8aa210b8-a100-4fe5-90b7-3a6d63dcea75.png)
+![6](https://user-images.githubusercontent.com/32334380/144875072-d682f3d2-7a77-4c20-ae1f-6b96bc352048.png)
+![7](https://user-images.githubusercontent.com/32334380/144875073-0c2e8fca-f89f-4be9-9762-0c110d9f7b3b.png)
+![8](https://user-images.githubusercontent.com/32334380/144875075-104f2b25-31a5-4aca-8d07-323eddd20a74.png)
+![9](https://user-images.githubusercontent.com/32334380/144875079-70243a3b-2628-41e4-9c09-6b14fcb479b6.png)
 
