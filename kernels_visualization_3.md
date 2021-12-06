@@ -18,14 +18,6 @@ DGN, DLGN, DLGN-SF
 ![8](https://user-images.githubusercontent.com/32334380/144844789-f48f2885-bd45-464d-b2b8-79ffdc8f9389.png)
 ![9](https://user-images.githubusercontent.com/32334380/144844796-66a98cdc-28b1-4ae1-8a31-816e0ea33329.png)
 
-DLGN, DLGN-SF(n_h_l = 256, 512)
-![1](https://user-images.githubusercontent.com/32334380/144847127-9e7bcce5-ba23-4934-a160-6f3e6acb3d58.png)
-![2](https://user-images.githubusercontent.com/32334380/144847134-e9a5540c-8a0c-48be-b393-91b02108131a.png)
-![3](https://user-images.githubusercontent.com/32334380/144847135-9bb986dd-4442-469e-be1a-e7c7441db01f.png)
-![4](https://user-images.githubusercontent.com/32334380/144847138-d6a2ef4d-b182-4a45-bc2b-8bbff05196d4.png)
-![5](https://user-images.githubusercontent.com/32334380/144847139-8c4e2e4b-2afc-47b1-83b6-238a125bd29f.png)
-![6](https://user-images.githubusercontent.com/32334380/144847141-3d7e38dc-a8f7-4052-996e-13304997695b.png)
-
 
 DLGN, DLGN-SF(n_h_l = 6, 7, 8)
 ![1](https://user-images.githubusercontent.com/32334380/144844989-864065df-1dea-4190-a627-9a6015e36ed9.png)
@@ -47,8 +39,20 @@ DLGN, DLGN-SF(n_h_l = 6, 7, 8)
 ![17](https://user-images.githubusercontent.com/32334380/144845045-c5e8f1f9-2d5b-413e-ba21-00b6e3545638.png)
 ![18](https://user-images.githubusercontent.com/32334380/144845046-1066a038-9e3d-419d-9975-d3e3502e5b53.png)
 
-MLP(n_h_l = 1, sin(10x))
+DLGN, DLGN-SF(n_h_l = 256, 512)
+![1](https://user-images.githubusercontent.com/32334380/144847127-9e7bcce5-ba23-4934-a160-6f3e6acb3d58.png)
+![2](https://user-images.githubusercontent.com/32334380/144847134-e9a5540c-8a0c-48be-b393-91b02108131a.png)
+![3](https://user-images.githubusercontent.com/32334380/144847135-9bb986dd-4442-469e-be1a-e7c7441db01f.png)
+![4](https://user-images.githubusercontent.com/32334380/144847138-d6a2ef4d-b182-4a45-bc2b-8bbff05196d4.png)
+![5](https://user-images.githubusercontent.com/32334380/144847139-8c4e2e4b-2afc-47b1-83b6-238a125bd29f.png)
+![6](https://user-images.githubusercontent.com/32334380/144847141-3d7e38dc-a8f7-4052-996e-13304997695b.png)
+
+MLP, DGN, DLGN, DLGN-SF(n_h_l = 1)
 ![1](https://user-images.githubusercontent.com/32334380/144845821-b6b5d968-ece7-41cd-9ae7-56226f85ffd8.png)
+![1](https://user-images.githubusercontent.com/32334380/144853582-90a62f69-489b-433a-8c6d-b0ac03aab872.png)
+![2](https://user-images.githubusercontent.com/32334380/144853618-e4a16765-9074-42a9-9ca6-4d970d4014d4.png)
+
+All the below experiments are done by changing input to sin(4x) instead of sin(10x)
 MLP( sin(4x))
 ![1](https://user-images.githubusercontent.com/32334380/144851265-1cee0695-bb3a-42af-9f75-0b8dd225693e.png)
 ![2](https://user-images.githubusercontent.com/32334380/144851273-f3660e0c-0a38-4589-9615-6c206bfff691.png)
