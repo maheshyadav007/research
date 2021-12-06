@@ -1,5 +1,3 @@
-[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661863/sin10_all_output.csv)
-[sin4_all_output.csv](https://github.com/maheshyadav007/research/files/7661864/sin4_all_output.csv)
 K = K1xK2xK3x.. (where Ki is the kernel of ith hidden layer) \
 n_h_l := number of hidden layers \
 n_n := number of neurons in each layer \
