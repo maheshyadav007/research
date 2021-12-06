@@ -72,7 +72,7 @@ MLP, DGN, DLGN, DLGN-SF(sin(4x))
 ![9](https://user-images.githubusercontent.com/32334380/144875079-70243a3b-2628-41e4-9c09-6b14fcb479b6.png)
 
 Y'KY values corresponding to all models for sin(10x) input \
-[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661868/sin10_all_output.csv)
+[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661868/sin10_all_output.csv) \
 Y'KY values corresponding to all models for sin(4x) input \
 [sin4_all_output.csv](https://github.com/maheshyadav007/research/files/7661869/sin4_all_output.csv)
 
