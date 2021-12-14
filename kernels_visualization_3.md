@@ -1,5 +1,3 @@
-[sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661863/sin10_all_output.csv)
-[sin4_all_output.csv](https://github.com/maheshyadav007/research/files/7661864/sin4_all_output.csv)
 K = K1xK2xK3x.. (where Ki is the kernel of ith hidden layer) \
 n_h_l := number of hidden layers \
 n_n := number of neurons in each layer \
@@ -9,7 +7,10 @@ Y'KY_n = normalized Y'KY ( Y'KY/largest eigen value)
 MLP
 ![1](https://user-images.githubusercontent.com/32334380/144844279-b7a20b55-cc18-4c94-97fd-a11c9d44f49b.png)
 ![2](https://user-images.githubusercontent.com/32334380/144844290-11604f71-001b-43c2-82c6-a9c495681b9f.png)
-![3](https://user-images.githubusercontent.com/32334380/144844294-5100c812-4262-4a9e-967b-9d5a002b2614.png)
+![1](https://user-images.githubusercontent.com/32334380/146000888-575f81a0-2ad4-4b43-b98e-8e2c6fae36c9.png)
+![2](https://user-images.githubusercontent.com/32334380/146000965-3a66935e-8e1a-428e-8e40-b8b61cc56e16.png)
+![3](https://user-images.githubusercontent.com/32334380/146001042-4c2f0f2c-6694-4ab5-b33c-b1bffc0b3153.png)
+
 
 DGN, DLGN, DLGN-SF
 ![1](https://user-images.githubusercontent.com/32334380/144844744-59612d6b-40e3-4e54-ae21-dc176bba4c65.png)
