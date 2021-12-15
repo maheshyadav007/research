@@ -68,16 +68,27 @@ DLGN, DLGN-SF(n_n = 256, 512)
 
 
 All the below experiments are done by changing input to sin(4x) instead of sin(10x) \
-MLP, DGN, DLGN, DLGN-SF(sin(4x))
+MLP
+![1](https://user-images.githubusercontent.com/32334380/146128800-7901832a-552a-44a5-83f2-e58f9d2dfe6e.png)
+![7](https://user-images.githubusercontent.com/32334380/146128843-3b13704b-3865-4cb6-b091-5f2233d7a36c.png)
 ![1](https://user-images.githubusercontent.com/32334380/144851265-1cee0695-bb3a-42af-9f75-0b8dd225693e.png)
 ![2](https://user-images.githubusercontent.com/32334380/144851273-f3660e0c-0a38-4589-9615-6c206bfff691.png)
 ![3](https://user-images.githubusercontent.com/32334380/144851278-636f1ac6-46f5-4bb0-b7df-f48bdc32f6e4.png)
+DGN
+![1](https://user-images.githubusercontent.com/32334380/146129186-1c686666-023a-4ff7-97f1-15bea78ed830.png)
+![2](https://user-images.githubusercontent.com/32334380/146129192-c09209a0-a0eb-4a9d-bc69-d85b8aa7b5fd.png)
 ![1](https://user-images.githubusercontent.com/32334380/144875047-6fb1c44a-b45e-41f8-ba6b-f6370ad9f641.png)
 ![2](https://user-images.githubusercontent.com/32334380/144875061-f98bddce-7be6-457e-beab-9a6052d47ae8.png)
 ![3](https://user-images.githubusercontent.com/32334380/144875065-163dabe6-b6dd-409e-913c-af0154bb92e2.png)
+DLGN
+![3](https://user-images.githubusercontent.com/32334380/146129203-e4cd26b6-c18f-4d35-a9d8-8bc028b212f9.png)
+![4](https://user-images.githubusercontent.com/32334380/146129207-d022c10d-3390-4f45-94ab-5d38a8ca91b1.png)
 ![4](https://user-images.githubusercontent.com/32334380/144875066-aea07d41-cc27-4494-a296-ff644883ce65.png)
 ![5](https://user-images.githubusercontent.com/32334380/144875068-8aa210b8-a100-4fe5-90b7-3a6d63dcea75.png)
 ![6](https://user-images.githubusercontent.com/32334380/144875072-d682f3d2-7a77-4c20-ae1f-6b96bc352048.png)
+DLGN-SF
+![5](https://user-images.githubusercontent.com/32334380/146129222-7c652d87-dc1b-4790-b588-fecd444b87d5.png)
+![6](https://user-images.githubusercontent.com/32334380/146129229-acdc7aa2-2db7-4500-8988-a3fb8e373869.png)
 ![7](https://user-images.githubusercontent.com/32334380/144875073-0c2e8fca-f89f-4be9-9762-0c110d9f7b3b.png)
 ![8](https://user-images.githubusercontent.com/32334380/144875075-104f2b25-31a5-4aca-8d07-323eddd20a74.png)
 ![9](https://user-images.githubusercontent.com/32334380/144875079-70243a3b-2628-41e4-9c09-6b14fcb479b6.png)
