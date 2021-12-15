@@ -6,6 +6,7 @@ Y'KY_n = normalized Y'KY ( Y'KY/largest eigen value)
 
 MLP
 ![1](https://user-images.githubusercontent.com/32334380/144845821-b6b5d968-ece7-41cd-9ae7-56226f85ffd8.png)
+![7](https://user-images.githubusercontent.com/32334380/146128060-1ed27f7d-f036-4a41-b061-9f58ecfbeec8.png)
 ![1](https://user-images.githubusercontent.com/32334380/144844279-b7a20b55-cc18-4c94-97fd-a11c9d44f49b.png)
 ![2](https://user-images.githubusercontent.com/32334380/144844290-11604f71-001b-43c2-82c6-a9c495681b9f.png)
 ![1](https://user-images.githubusercontent.com/32334380/146000888-575f81a0-2ad4-4b43-b98e-8e2c6fae36c9.png)
@@ -14,17 +15,23 @@ MLP
 \
 DGN
 ![1](https://user-images.githubusercontent.com/32334380/146127812-a3bb5447-5152-41f5-b6b7-4a0c8e108467.png)
+![1](https://user-images.githubusercontent.com/32334380/146128083-5429acdc-29d4-4aea-bc46-80e165456ef2.png)
+![2](https://user-images.githubusercontent.com/32334380/146128088-6c8f34e6-7ec7-40eb-a0cb-204d05cfd391.png)
 ![1](https://user-images.githubusercontent.com/32334380/144844744-59612d6b-40e3-4e54-ae21-dc176bba4c65.png)
 ![2](https://user-images.githubusercontent.com/32334380/144844752-0cb6624b-ca2a-4a16-8001-6024013d9c4c.png)
 ![3](https://user-images.githubusercontent.com/32334380/144844757-574a1959-6f08-4f64-a43f-13fc53e5672a.png)
 \
 DLGN
+![3](https://user-images.githubusercontent.com/32334380/146128099-e031aad1-f302-4a05-b208-a4709935952c.png)
+![4](https://user-images.githubusercontent.com/32334380/146128105-4ad23f6f-2af0-4f18-8dfe-3f279e81fa1e.png)
 ![2](https://user-images.githubusercontent.com/32334380/146127822-98bcb52b-f0bb-4d4c-83d5-b8406e600a84.png)
 ![4](https://user-images.githubusercontent.com/32334380/144844760-81570edd-d611-4ce7-b7a4-d0466a680240.png)
 ![5](https://user-images.githubusercontent.com/32334380/144844768-9ff007aa-8fbe-4261-b6c0-5539f1ce19a8.png)
 ![6](https://user-images.githubusercontent.com/32334380/144844772-17a99103-312c-4eb4-a971-347b9b397937.png)
 \
 DLGN-SF
+![5](https://user-images.githubusercontent.com/32334380/146128111-32bd0129-fc80-404d-8abf-c1e70f5141bd.png)
+![6](https://user-images.githubusercontent.com/32334380/146128113-ca45c992-5606-4010-a73a-e1583af80400.png)
 ![3](https://user-images.githubusercontent.com/32334380/146127831-52be6c2d-2709-47ca-a4e6-e0ad25ff3d5b.png)
 ![7](https://user-images.githubusercontent.com/32334380/144844776-9041607b-3583-4123-b1a3-77a55d326d39.png)
 ![8](https://user-images.githubusercontent.com/32334380/144844789-f48f2885-bd45-464d-b2b8-79ffdc8f9389.png)
