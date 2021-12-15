@@ -92,7 +92,10 @@ MLP
 ![7](https://user-images.githubusercontent.com/32334380/146128843-3b13704b-3865-4cb6-b091-5f2233d7a36c.png)
 ![1](https://user-images.githubusercontent.com/32334380/144851265-1cee0695-bb3a-42af-9f75-0b8dd225693e.png)
 ![2](https://user-images.githubusercontent.com/32334380/144851273-f3660e0c-0a38-4589-9615-6c206bfff691.png)
-![3](https://user-images.githubusercontent.com/32334380/144851278-636f1ac6-46f5-4bb0-b7df-f48bdc32f6e4.png)
+![8](https://user-images.githubusercontent.com/32334380/146163278-e9c25914-a4d2-4118-adb3-a444ebd077fb.png)
+![9](https://user-images.githubusercontent.com/32334380/146163287-2a8d9d8f-53ad-4b59-9b16-ff7aa48a7018.png)
+![10](https://user-images.githubusercontent.com/32334380/146163291-ff1fd494-08b3-4c44-b6fe-0f89948ba003.png)
+
 DGN
 ![1](https://user-images.githubusercontent.com/32334380/146158453-4683a55d-881d-4975-8600-16c2d5e7296b.png)
 ![1](https://user-images.githubusercontent.com/32334380/146129186-1c686666-023a-4ff7-97f1-15bea78ed830.png)
