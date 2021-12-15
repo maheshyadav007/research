@@ -66,6 +66,16 @@ DLGN, DLGN-SF(n_n = 256, 512)
 ![5](https://user-images.githubusercontent.com/32334380/144847139-8c4e2e4b-2afc-47b1-83b6-238a125bd29f.png)
 ![6](https://user-images.githubusercontent.com/32334380/144847141-3d7e38dc-a8f7-4052-996e-13304997695b.png)
 
+NTK
+![1](https://user-images.githubusercontent.com/32334380/146129601-8ed7511f-b2fa-4384-ad6f-1dc6b0387021.png)
+![2](https://user-images.githubusercontent.com/32334380/146129608-ed2b6836-88cc-4bec-bc8b-61987de0a7c7.png)
+![3](https://user-images.githubusercontent.com/32334380/146129609-776b3df6-02b2-40ee-9ec9-5655570d9bd7.png)
+
+NNGP
+![1](https://user-images.githubusercontent.com/32334380/146129636-05f09bbd-7c91-46d7-8716-04fa4e3519d8.png)
+![2](https://user-images.githubusercontent.com/32334380/146129639-e833a5b1-50c6-4965-88f8-0251e327bb1d.png)
+![3](https://user-images.githubusercontent.com/32334380/146129642-5662ab67-2fa1-4450-b326-fb2b70b470ed.png)
+
 
 All the below experiments are done by changing input to sin(4x) instead of sin(10x) \
 MLP
@@ -92,6 +102,17 @@ DLGN-SF
 ![7](https://user-images.githubusercontent.com/32334380/144875073-0c2e8fca-f89f-4be9-9762-0c110d9f7b3b.png)
 ![8](https://user-images.githubusercontent.com/32334380/144875075-104f2b25-31a5-4aca-8d07-323eddd20a74.png)
 ![9](https://user-images.githubusercontent.com/32334380/144875079-70243a3b-2628-41e4-9c09-6b14fcb479b6.png)
+
+NTK
+![1](https://user-images.githubusercontent.com/32334380/146129749-67cf4200-3808-43c4-8a66-45c990ffe148.png)
+![2](https://user-images.githubusercontent.com/32334380/146129759-a09e4b15-6018-4759-ab9d-8a3a774d75b2.png)
+![3](https://user-images.githubusercontent.com/32334380/146129763-ee4afe27-0670-47e1-a95f-e4a0373438c6.png)
+
+NNGP
+![1](https://user-images.githubusercontent.com/32334380/146129783-cf77db58-f9aa-41e2-966e-ba25744e4b85.png)
+![2](https://user-images.githubusercontent.com/32334380/146129790-8e75751f-07ea-49e0-88fe-0cd663c4b291.png)
+![3](https://user-images.githubusercontent.com/32334380/146129791-6aae6881-32c1-492f-8c66-5ece640b41e5.png)
+
 
 Y'KY values corresponding to all models for sin(10x) input \
 [sin10_all_output.csv](https://github.com/maheshyadav007/research/files/7661868/sin10_all_output.csv) \
