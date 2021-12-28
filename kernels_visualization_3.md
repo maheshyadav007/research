@@ -83,7 +83,9 @@ NTK
 NNGP
 ![1](https://user-images.githubusercontent.com/32334380/146129636-05f09bbd-7c91-46d7-8716-04fa4e3519d8.png)
 ![2](https://user-images.githubusercontent.com/32334380/146129639-e833a5b1-50c6-4965-88f8-0251e327bb1d.png)
+![1](https://user-images.githubusercontent.com/32334380/147534318-335477b2-0a17-418d-b249-701233324b5a.png)
 ![3](https://user-images.githubusercontent.com/32334380/146129642-5662ab67-2fa1-4450-b326-fb2b70b470ed.png)
+![2](https://user-images.githubusercontent.com/32334380/147534336-f0c18cc9-2a50-4ca6-a1f8-af010fbe3e01.png)
 
 
 All the below experiments are done by changing input to sin(4x) instead of sin(10x) \
@@ -135,7 +137,9 @@ NTK
 NNGP
 ![1](https://user-images.githubusercontent.com/32334380/146129783-cf77db58-f9aa-41e2-966e-ba25744e4b85.png)
 ![2](https://user-images.githubusercontent.com/32334380/146129790-8e75751f-07ea-49e0-88fe-0cd663c4b291.png)
+![1](https://user-images.githubusercontent.com/32334380/147534370-49bef0e5-5b92-4c58-9883-6cb319de5deb.png)
 ![3](https://user-images.githubusercontent.com/32334380/146129791-6aae6881-32c1-492f-8c66-5ece640b41e5.png)
+![2](https://user-images.githubusercontent.com/32334380/147534382-4ab6809a-7843-466b-a34f-c97ca25b22e4.png)
 
 
 Y'KY values corresponding to all models for sin(10x) input \
