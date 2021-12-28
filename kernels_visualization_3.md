@@ -147,6 +147,13 @@ NNGP
 ![1](https://user-images.githubusercontent.com/32334380/147534370-49bef0e5-5b92-4c58-9883-6cb319de5deb.png)
 ![3](https://user-images.githubusercontent.com/32334380/146129791-6aae6881-32c1-492f-8c66-5ece640b41e5.png)
 ![2](https://user-images.githubusercontent.com/32334380/147534382-4ab6809a-7843-466b-a34f-c97ca25b22e4.png)
+Each Run visuals \
+![11](https://user-images.githubusercontent.com/32334380/147545228-eb693b80-8da0-4005-bea9-eccc40310375.png)
+![12](https://user-images.githubusercontent.com/32334380/147545234-5964ac72-e8cf-4bf0-8f54-0c56167b7f81.png)
+![13](https://user-images.githubusercontent.com/32334380/147545235-6e4ccb23-8577-46a2-b78f-9ba53952925a.png)
+![14](https://user-images.githubusercontent.com/32334380/147545237-f849071e-2aba-4a14-84a9-73abbf83a367.png)
+![15](https://user-images.githubusercontent.com/32334380/147545242-f4595839-db44-4bfe-b9c7-fe90d3f7edbf.png)
+![16](https://user-images.githubusercontent.com/32334380/147545243-30acaa32-dfe4-4137-975d-5075bb7e4fef.png)
 
 
 Y'KY values corresponding to all models for sin(10x) input \
