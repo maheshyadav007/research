@@ -86,6 +86,13 @@ NNGP
 ![1](https://user-images.githubusercontent.com/32334380/147534318-335477b2-0a17-418d-b249-701233324b5a.png)
 ![3](https://user-images.githubusercontent.com/32334380/146129642-5662ab67-2fa1-4450-b326-fb2b70b470ed.png)
 ![2](https://user-images.githubusercontent.com/32334380/147534336-f0c18cc9-2a50-4ca6-a1f8-af010fbe3e01.png)
+Each Run visulas \
+![11](https://user-images.githubusercontent.com/32334380/147543986-a6141e5e-c1dc-4370-b200-dccfd87ad381.png)
+![12](https://user-images.githubusercontent.com/32334380/147543992-4f09e232-77b3-48de-b1be-90f9654ea837.png)
+![13](https://user-images.githubusercontent.com/32334380/147543995-930c6c11-d7bb-4997-b5d1-f11b63128f20.png)
+![14](https://user-images.githubusercontent.com/32334380/147543997-67428053-73b1-4956-9ddc-dcf4a428f4ea.png)
+![15](https://user-images.githubusercontent.com/32334380/147544000-59817344-1103-4f5e-9197-772a2a7cb1f4.png)
+![16](https://user-images.githubusercontent.com/32334380/147544002-f1d53b5b-2fa6-43e2-8725-edf2302f5ab2.png)
 
 
 All the below experiments are done by changing input to sin(4x) instead of sin(10x) \
