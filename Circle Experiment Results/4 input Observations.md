@@ -1,6 +1,7 @@
-Top half of cirlce is slow varying and bottom half is high varying.
-x1 := -30 , x2:= -20
-x3 := 40,  x4:= 50
+Top half of cirlce is slow varying and bottom half is high varying. \
+x1 := -30 , x2:= -20 \
+x3 := 40,  x4:= 50 \
+The figure below are G(x) activations for Hidden layer 2 of the model. 
 
 MLP \
 ![1](https://user-images.githubusercontent.com/32334380/150080515-36ab4e1e-c13c-43b1-8aa2-696501bc9633.png)
