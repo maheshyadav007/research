@@ -1,3 +1,6 @@
+All the results is tabulated in the the following sheet : https://docs.google.com/spreadsheets/d/1rGd-w8ZEge_didmeIVX6pYOJ6uJTjkbpUrIsE8sr6a4/edit?usp=sharing \
+
+
 K = K1xK2xK3x.. (where Ki is the kernel of ith hidden layer) \
 n_h_l := number of hidden layers \
 n_n := number of neurons in each layer \
