@@ -1,14 +1,17 @@
 Top half of cirlce is slow varying and bottom half is high varying. \
 x1 := -30 , x2:= -20 \
-x3 := 40,  x4:= 50 \
-The figure below are G(x) activations for Hidden layer 2 of the model. 
+x3 := 40,  x4:= 50 
+ 
 
 MLP \
 ![1](https://user-images.githubusercontent.com/32334380/150080515-36ab4e1e-c13c-43b1-8aa2-696501bc9633.png)
+
+The following figures are the plot of each activations(G(x)) for Hidden layer 2 of the MLP model during the training process from epoch 0 to 100(x-axis).\
 ![x1_plot](https://user-images.githubusercontent.com/32334380/150080548-05025d8e-9111-44b2-a5c9-faa312b79587.png)
 ![x2_plot](https://user-images.githubusercontent.com/32334380/150080552-cdf37d98-2856-4ca0-be07-ccf8f6d23653.png)
 ![x3_plot](https://user-images.githubusercontent.com/32334380/150080556-5fd29486-067b-42c9-b869-47891f3f413c.png)
-![x4_plot](https://user-images.githubusercontent.com/32334380/150080557-73f5f794-17fb-4900-9278-de1ff43b03ee.png)
+![x4_plot](https://user-images.githubusercontent.com/32334380/150080557-73f5f794-17fb-4900-9278-de1ff43b03ee.png) \
+L2 norm of G(x) for HL 2 during the training process from epoch 0 to 100(x-axis).\
 ![x1_mag_plot](https://user-images.githubusercontent.com/32334380/150080573-8fd88491-38a0-4073-bf4f-832210982d71.png)
 ![x2_mag_plot](https://user-images.githubusercontent.com/32334380/150080576-469c7c7b-b2fd-419b-980c-e03b2161951f.png)
 ![x3_mag_plot](https://user-images.githubusercontent.com/32334380/150080578-3045bbf7-3279-4451-9e54-90b50b88536e.png)
