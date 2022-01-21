@@ -1,3 +1,7 @@
+Top half of cirlce is slow varying and bottom half is high varying. \
+x1 := -30 , x2:= -20 \
+x3 := 40,  x4:= 50 
+
 ![MLP(n_h_l = 5, n_n = 32,Run=1,step=00,UnLearned)](https://user-images.githubusercontent.com/32334380/150568687-bd1565f8-8783-4931-b1e6-7fba56cfd600.png)
 ![MLP(n_h_l = 5, n_n = 32,Run=1,step=01,Learned)](https://user-images.githubusercontent.com/32334380/150568693-793c2d5c-def2-4dce-95b9-58c4f71eb2b6.png)
 ![MLP(n_h_l = 5, n_n = 32,Run=1,step=02,Learned)](https://user-images.githubusercontent.com/32334380/150568694-fe5428d6-9cf7-41d1-bea1-102e917f3f23.png)
