@@ -36,13 +36,11 @@ MLP
 </p>
 
 <p align="center">
-    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 0,step=00,UnLearned,loss = 
-0.495).png" width="200"/>
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 0,step=00,UnLearned,loss = 0.495).png" width="200"/>
 </p>
 
 <p align="center">
-    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=01,Learned,loss = 
-0.486).png" width="200"/>
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=01,Learned,loss = 0.486).png" width="200"/>
 </p>
 
 <p align="center">
