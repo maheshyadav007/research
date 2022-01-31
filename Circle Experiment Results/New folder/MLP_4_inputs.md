@@ -1,177 +1,851 @@
 
 MLP
 ===
-  
-![0](MLP_5_32_4_inputs/K2_epoch.png)  
-![1](MLP_5_32_4_inputs/K2_short.png)  
-![2](MLP_5_32_4_inputs/K3_epoch.png)  
-![3](MLP_5_32_4_inputs/K3_short.png)  
-![4](MLP_5_32_4_inputs/K_epoch.png)  
-![5](MLP_5_32_4_inputs/K_short.png)  
-![6](MLP_5_32_4_inputs/loss_epoch.png)  
-![7](MLP_5_32_4_inputs/loss_step.png)  
-![8](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 0,step=00,UnLearned,loss = 0.495).png)  
-![9](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=01,Learned,loss = 0.486).png)  
-![10](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=02,Learned,loss = 0.478).png)  
-![11](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=03,Learned,loss = 0.472).png)  
-![12](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=04,Learned,loss = 0.466).png)  
-![13](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=05,Learned,loss = 0.461).png)  
-![14](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=06,Learned,loss = 0.458).png)  
-![15](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=07,Learned,loss = 0.454).png)  
-![16](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=08,Learned,loss = 0.450).png)  
-![17](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=09,Learned,loss = 0.445).png)  
-![18](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=10,Learned,loss = 0.439).png)  
-![19](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=11,Learned,loss = 0.432).png)  
-![20](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=12,Learned,loss = 0.424).png)  
-![21](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=13,Learned,loss = 0.416).png)  
-![22](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=14,Learned,loss = 0.407).png)  
-![23](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=15,Learned,loss = 0.397).png)  
-![24](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=01,Learned,loss = 0.386).png)  
-![25](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=02,Learned,loss = 0.375).png)  
-![26](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=03,Learned,loss = 0.363).png)  
-![27](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=04,Learned,loss = 0.352).png)  
-![28](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=05,Learned,loss = 0.341).png)  
-![29](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=06,Learned,loss = 0.330).png)  
-![30](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=07,Learned,loss = 0.319).png)  
-![31](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=08,Learned,loss = 0.306).png)  
-![32](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=09,Learned,loss = 0.292).png)  
-![33](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=10,Learned,loss = 0.279).png)  
-![34](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=11,Learned,loss = 0.269).png)  
-![35](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=12,Learned,loss = 0.262).png)  
-![36](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=13,Learned,loss = 0.258).png)  
-![37](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=14,Learned,loss = 0.255).png)  
-![38](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=15,Learned,loss = 0.252).png)  
-![39](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 0,step=00,UnLearned,loss = 0.406).png)  
-![40](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=01,Learned,loss = 0.401).png)  
-![41](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=02,Learned,loss = 0.397).png)  
-![42](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=03,Learned,loss = 0.395).png)  
-![43](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=04,Learned,loss = 0.394).png)  
-![44](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=05,Learned,loss = 0.395).png)  
-![45](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=06,Learned,loss = 0.394).png)  
-![46](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=07,Learned,loss = 0.392).png)  
-![47](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=08,Learned,loss = 0.390).png)  
-![48](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=09,Learned,loss = 0.388).png)  
-![49](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=10,Learned,loss = 0.385).png)  
-![50](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=11,Learned,loss = 0.381).png)  
-![51](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=12,Learned,loss = 0.376).png)  
-![52](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=13,Learned,loss = 0.370).png)  
-![53](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=14,Learned,loss = 0.364).png)  
-![54](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=15,Learned,loss = 0.359).png)  
-![55](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=01,Learned,loss = 0.354).png)  
-![56](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=02,Learned,loss = 0.348).png)  
-![57](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=03,Learned,loss = 0.342).png)  
-![58](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=04,Learned,loss = 0.334).png)  
-![59](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=05,Learned,loss = 0.325).png)  
-![60](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=06,Learned,loss = 0.315).png)  
-![61](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=07,Learned,loss = 0.306).png)  
-![62](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=08,Learned,loss = 0.297).png)  
-![63](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=09,Learned,loss = 0.289).png)  
-![64](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=10,Learned,loss = 0.283).png)  
-![65](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=11,Learned,loss = 0.278).png)  
-![66](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=12,Learned,loss = 0.275).png)  
-![67](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=13,Learned,loss = 0.270).png)  
-![68](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=14,Learned,loss = 0.262).png)  
-![69](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=15,Learned,loss = 0.256).png)  
-![70](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 0,step=00,UnLearned,loss = 0.455).png)  
-![71](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=01,Learned,loss = 0.444).png)  
-![72](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=02,Learned,loss = 0.435).png)  
-![73](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=03,Learned,loss = 0.427).png)  
-![74](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=04,Learned,loss = 0.421).png)  
-![75](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=05,Learned,loss = 0.415).png)  
-![76](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=06,Learned,loss = 0.409).png)  
-![77](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=07,Learned,loss = 0.403).png)  
-![78](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=08,Learned,loss = 0.396).png)  
-![79](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=09,Learned,loss = 0.389).png)  
-![80](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=10,Learned,loss = 0.380).png)  
-![81](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=11,Learned,loss = 0.371).png)  
-![82](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=12,Learned,loss = 0.361).png)  
-![83](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=13,Learned,loss = 0.350).png)  
-![84](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=14,Learned,loss = 0.337).png)  
-![85](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=15,Learned,loss = 0.327).png)  
-![86](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=01,Learned,loss = 0.317).png)  
-![87](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=02,Learned,loss = 0.308).png)  
-![88](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=03,Learned,loss = 0.298).png)  
-![89](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=04,Learned,loss = 0.286).png)  
-![90](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=05,Learned,loss = 0.274).png)  
-![91](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=06,Learned,loss = 0.265).png)  
-![92](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=07,Learned,loss = 0.256).png)  
-![93](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=08,Learned,loss = 0.248).png)  
-![94](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=09,Learned,loss = 0.243).png)  
-![95](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=10,Learned,loss = 0.241).png)  
-![96](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=11,Learned,loss = 0.241).png)  
-![97](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=12,Learned,loss = 0.242).png)  
-![98](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=13,Learned,loss = 0.243).png)  
-![99](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=14,Learned,loss = 0.245).png)  
-![100](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=15,Learned,loss = 0.245).png)  
-![101](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 0,step=00,UnLearned,loss = 0.450).png)  
-![102](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=01,Learned,loss = 0.444).png)  
-![103](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=02,Learned,loss = 0.441).png)  
-![104](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=03,Learned,loss = 0.437).png)  
-![105](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=04,Learned,loss = 0.434).png)  
-![106](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=05,Learned,loss = 0.430).png)  
-![107](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=06,Learned,loss = 0.426).png)  
-![108](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=07,Learned,loss = 0.421).png)  
-![109](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=08,Learned,loss = 0.416).png)  
-![110](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=09,Learned,loss = 0.410).png)  
-![111](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=10,Learned,loss = 0.404).png)  
-![112](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=11,Learned,loss = 0.397).png)  
-![113](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=12,Learned,loss = 0.388).png)  
-![114](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=13,Learned,loss = 0.380).png)  
-![115](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=14,Learned,loss = 0.370).png)  
-![116](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=15,Learned,loss = 0.360).png)  
-![117](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=01,Learned,loss = 0.349).png)  
-![118](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=02,Learned,loss = 0.338).png)  
-![119](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=03,Learned,loss = 0.327).png)  
-![120](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=04,Learned,loss = 0.315).png)  
-![121](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=05,Learned,loss = 0.304).png)  
-![122](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=06,Learned,loss = 0.295).png)  
-![123](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=07,Learned,loss = 0.287).png)  
-![124](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=08,Learned,loss = 0.279).png)  
-![125](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=09,Learned,loss = 0.272).png)  
-![126](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=10,Learned,loss = 0.268).png)  
-![127](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=11,Learned,loss = 0.265).png)  
-![128](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=12,Learned,loss = 0.263).png)  
-![129](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=13,Learned,loss = 0.261).png)  
-![130](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=14,Learned,loss = 0.259).png)  
-![131](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=15,Learned,loss = 0.257).png)  
-![132](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 0,step=00,UnLearned,loss = 0.559).png)  
-![133](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=01,Learned,loss = 0.544).png)  
-![134](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=02,Learned,loss = 0.533).png)  
-![135](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=03,Learned,loss = 0.521).png)  
-![136](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=04,Learned,loss = 0.512).png)  
-![137](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=05,Learned,loss = 0.503).png)  
-![138](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=06,Learned,loss = 0.493).png)  
-![139](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=07,Learned,loss = 0.484).png)  
-![140](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=08,Learned,loss = 0.474).png)  
-![141](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=09,Learned,loss = 0.466).png)  
-![142](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=10,Learned,loss = 0.457).png)  
-![143](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=11,Learned,loss = 0.448).png)  
-![144](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=12,Learned,loss = 0.438).png)  
-![145](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=13,Learned,loss = 0.427).png)  
-![146](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=14,Learned,loss = 0.417).png)  
-![147](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=15,Learned,loss = 0.410).png)  
-![148](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=01,Learned,loss = 0.402).png)  
-![149](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=02,Learned,loss = 0.393).png)  
-![150](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=03,Learned,loss = 0.383).png)  
-![151](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=04,Learned,loss = 0.373).png)  
-![152](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=05,Learned,loss = 0.363).png)  
-![153](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=06,Learned,loss = 0.353).png)  
-![154](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=07,Learned,loss = 0.343).png)  
-![155](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=08,Learned,loss = 0.333).png)  
-![156](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=09,Learned,loss = 0.321).png)  
-![157](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=10,Learned,loss = 0.311).png)  
-![158](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=11,Learned,loss = 0.301).png)  
-![159](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=12,Learned,loss = 0.291).png)  
-![160](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=13,Learned,loss = 0.282).png)  
-![161](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=14,Learned,loss = 0.274).png)  
-![162](MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=15,Learned,loss = 0.268).png)  
-![163](MLP_5_32_4_inputs/Run_1_epoch.png)  
-![164](MLP_5_32_4_inputs/Run_1_step.png)  
-![165](MLP_5_32_4_inputs/Run_2_epoch.png)  
-![166](MLP_5_32_4_inputs/Run_2_step.png)  
-![167](MLP_5_32_4_inputs/Run_3_epoch.png)  
-![168](MLP_5_32_4_inputs/Run_3_step.png)  
-![169](MLP_5_32_4_inputs/Run_4_epoch.png)  
-![170](MLP_5_32_4_inputs/Run_4_step.png)  
-![171](MLP_5_32_4_inputs/Run_5_epoch.png)  
-![172](MLP_5_32_4_inputs/Run_5_step.png)
+
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K2_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K2_short.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K3_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K3_short.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/K_short.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/loss_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/loss_step.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 0,step=00,UnLearned,loss = 
+0.495).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=01,Learned,loss = 
+0.486).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=02,Learned,loss = 
+0.478).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=03,Learned,loss = 
+0.472).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=04,Learned,loss = 
+0.466).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=05,Learned,loss = 
+0.461).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=06,Learned,loss = 
+0.458).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=07,Learned,loss = 
+0.454).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=08,Learned,loss = 
+0.450).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=09,Learned,loss = 
+0.445).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=10,Learned,loss = 
+0.439).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=11,Learned,loss = 
+0.432).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=12,Learned,loss = 
+0.424).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=13,Learned,loss = 
+0.416).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=14,Learned,loss = 
+0.407).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 1,step=15,Learned,loss = 
+0.397).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=01,Learned,loss = 
+0.386).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=02,Learned,loss = 
+0.375).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=03,Learned,loss = 
+0.363).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=04,Learned,loss = 
+0.352).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=05,Learned,loss = 
+0.341).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=06,Learned,loss = 
+0.330).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=07,Learned,loss = 
+0.319).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=08,Learned,loss = 
+0.306).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=09,Learned,loss = 
+0.292).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=10,Learned,loss = 
+0.279).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=11,Learned,loss = 
+0.269).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=12,Learned,loss = 
+0.262).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=13,Learned,loss = 
+0.258).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=14,Learned,loss = 
+0.255).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 2,step=15,Learned,loss = 
+0.252).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 0,step=00,UnLearned,loss = 
+0.406).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=01,Learned,loss = 
+0.401).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=02,Learned,loss = 
+0.397).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=03,Learned,loss = 
+0.395).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=04,Learned,loss = 
+0.394).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=05,Learned,loss = 
+0.395).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=06,Learned,loss = 
+0.394).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=07,Learned,loss = 
+0.392).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=08,Learned,loss = 
+0.390).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=09,Learned,loss = 
+0.388).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=10,Learned,loss = 
+0.385).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=11,Learned,loss = 
+0.381).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=12,Learned,loss = 
+0.376).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=13,Learned,loss = 
+0.370).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=14,Learned,loss = 
+0.364).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 1,step=15,Learned,loss = 
+0.359).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=01,Learned,loss = 
+0.354).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=02,Learned,loss = 
+0.348).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=03,Learned,loss = 
+0.342).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=04,Learned,loss = 
+0.334).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=05,Learned,loss = 
+0.325).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=06,Learned,loss = 
+0.315).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=07,Learned,loss = 
+0.306).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=08,Learned,loss = 
+0.297).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=09,Learned,loss = 
+0.289).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=10,Learned,loss = 
+0.283).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=11,Learned,loss = 
+0.278).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=12,Learned,loss = 
+0.275).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=13,Learned,loss = 
+0.270).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=14,Learned,loss = 
+0.262).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=2,Epoch = 2,step=15,Learned,loss = 
+0.256).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 0,step=00,UnLearned,loss = 
+0.455).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=01,Learned,loss = 
+0.444).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=02,Learned,loss = 
+0.435).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=03,Learned,loss = 
+0.427).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=04,Learned,loss = 
+0.421).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=05,Learned,loss = 
+0.415).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=06,Learned,loss = 
+0.409).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=07,Learned,loss = 
+0.403).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=08,Learned,loss = 
+0.396).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=09,Learned,loss = 
+0.389).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=10,Learned,loss = 
+0.380).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=11,Learned,loss = 
+0.371).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=12,Learned,loss = 
+0.361).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=13,Learned,loss = 
+0.350).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=14,Learned,loss = 
+0.337).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 1,step=15,Learned,loss = 
+0.327).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=01,Learned,loss = 
+0.317).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=02,Learned,loss = 
+0.308).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=03,Learned,loss = 
+0.298).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=04,Learned,loss = 
+0.286).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=05,Learned,loss = 
+0.274).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=06,Learned,loss = 
+0.265).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=07,Learned,loss = 
+0.256).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=08,Learned,loss = 
+0.248).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=09,Learned,loss = 
+0.243).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=10,Learned,loss = 
+0.241).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=11,Learned,loss = 
+0.241).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=12,Learned,loss = 
+0.242).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=13,Learned,loss = 
+0.243).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=14,Learned,loss = 
+0.245).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=3,Epoch = 2,step=15,Learned,loss = 
+0.245).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 0,step=00,UnLearned,loss = 
+0.450).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=01,Learned,loss = 
+0.444).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=02,Learned,loss = 
+0.441).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=03,Learned,loss = 
+0.437).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=04,Learned,loss = 
+0.434).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=05,Learned,loss = 
+0.430).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=06,Learned,loss = 
+0.426).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=07,Learned,loss = 
+0.421).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=08,Learned,loss = 
+0.416).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=09,Learned,loss = 
+0.410).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=10,Learned,loss = 
+0.404).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=11,Learned,loss = 
+0.397).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=12,Learned,loss = 
+0.388).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=13,Learned,loss = 
+0.380).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=14,Learned,loss = 
+0.370).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 1,step=15,Learned,loss = 
+0.360).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=01,Learned,loss = 
+0.349).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=02,Learned,loss = 
+0.338).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=03,Learned,loss = 
+0.327).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=04,Learned,loss = 
+0.315).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=05,Learned,loss = 
+0.304).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=06,Learned,loss = 
+0.295).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=07,Learned,loss = 
+0.287).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=08,Learned,loss = 
+0.279).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=09,Learned,loss = 
+0.272).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=10,Learned,loss = 
+0.268).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=11,Learned,loss = 
+0.265).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=12,Learned,loss = 
+0.263).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=13,Learned,loss = 
+0.261).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=14,Learned,loss = 
+0.259).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=4,Epoch = 2,step=15,Learned,loss = 
+0.257).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 0,step=00,UnLearned,loss = 
+0.559).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=01,Learned,loss = 
+0.544).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=02,Learned,loss = 
+0.533).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=03,Learned,loss = 
+0.521).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=04,Learned,loss = 
+0.512).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=05,Learned,loss = 
+0.503).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=06,Learned,loss = 
+0.493).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=07,Learned,loss = 
+0.484).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=08,Learned,loss = 
+0.474).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=09,Learned,loss = 
+0.466).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=10,Learned,loss = 
+0.457).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=11,Learned,loss = 
+0.448).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=12,Learned,loss = 
+0.438).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=13,Learned,loss = 
+0.427).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=14,Learned,loss = 
+0.417).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 1,step=15,Learned,loss = 
+0.410).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=01,Learned,loss = 
+0.402).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=02,Learned,loss = 
+0.393).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=03,Learned,loss = 
+0.383).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=04,Learned,loss = 
+0.373).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=05,Learned,loss = 
+0.363).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=06,Learned,loss = 
+0.353).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=07,Learned,loss = 
+0.343).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=08,Learned,loss = 
+0.333).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=09,Learned,loss = 
+0.321).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=10,Learned,loss = 
+0.311).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=11,Learned,loss = 
+0.301).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=12,Learned,loss = 
+0.291).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=13,Learned,loss = 
+0.282).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=14,Learned,loss = 
+0.274).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=15,Learned,loss = 
+0.268).png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_1_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_1_step.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_2_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_2_step.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_3_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_3_step.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_4_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_4_step.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_5_epoch.png" />
+</p>
+
+<p align="center">
+    <img src="MLP_5_32_4_inputs/Run_5_step.png" />
+</p>
