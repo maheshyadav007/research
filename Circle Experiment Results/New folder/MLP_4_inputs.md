@@ -1,27 +1,4 @@
-<p align="center">
-<img src="MLP_5_32_4_inputs/K2_epoch.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/K2_short.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/K3_epoch.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/K3_short.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/K_epoch.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/K_short.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/loss_epoch.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/loss_step.png" />
-</p>
+
 <p align="center">
 <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=1,Epoch = 0,step=00,UnLearned,loss = 0.495).png" />
 </p>
@@ -488,35 +465,64 @@
 <img src="MLP_5_32_4_inputs/MLP(n_h_l = 5, n_n = 32,Run=5,Epoch = 2,step=15,Learned,loss = 0.268).png" />
 </p>
 <p align="center">
-<img src="MLP_5_32_4_inputs/Run_1_epoch.png" />
+<img src="MLP_5_32_4_inputs/K2_epoch.png" />
 </p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/K3_epoch.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/K_epoch.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/K2_short.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/K3_short.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/K_short.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/loss_epoch.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/loss_step.png" />
+</p>
+
 <p align="center">
 <img src="MLP_5_32_4_inputs/Run_1_step.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/Run_2_epoch.png" />
 </p>
 <p align="center">
 <img src="MLP_5_32_4_inputs/Run_2_step.png" />
 </p>
 <p align="center">
-<img src="MLP_5_32_4_inputs/Run_3_epoch.png" />
-</p>
-<p align="center">
 <img src="MLP_5_32_4_inputs/Run_3_step.png" />
-</p>
-<p align="center">
-<img src="MLP_5_32_4_inputs/Run_4_epoch.png" />
 </p>
 <p align="center">
 <img src="MLP_5_32_4_inputs/Run_4_step.png" />
 </p>
 <p align="center">
-<img src="MLP_5_32_4_inputs/Run_5_epoch.png" />
-</p>
-<p align="center">
 <img src="MLP_5_32_4_inputs/Run_5_step.png" />
 </p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/Run_1_epoch.png" />
+</p>
+<p align="center">
+<img src="MLP_5_32_4_inputs/Run_2_epoch.png" />
+</p>
+
+<p align="center">
+<img src="MLP_5_32_4_inputs/Run_3_epoch.png" />
+</p>
+
+<p align="center">
+<img src="MLP_5_32_4_inputs/Run_4_epoch.png" />
+</p>
+
+<p align="center">
+<img src="MLP_5_32_4_inputs/Run_5_epoch.png" />
+</p>
+
 Inputs flipped i.e Top half of cirlce is high varying and bottom half is slow varying. \
 <p align="center"> <img src="MLP_5_32_all_4_input_flipped_figs/K2_step.png" /> </p>
 <p align="center"> <img src="MLP_5_32_all_4_input_flipped_figs/K3_step.png" /> </p>
