@@ -1,4 +1,5 @@
-<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 000,step=00,UnLearned,loss = 2.306).png' /> </p>
+<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 000,step=000,UnLearned,loss = 2.306).png' /> </p>
+<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=050,Learned,loss = 1.539).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=100,Learned,loss = 1.27).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=150,Learned,loss = 1.122).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=200,Learned,loss = 1.043).png' /> </p>
@@ -7,7 +8,6 @@
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=350,Learned,loss = 0.997).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=400,Learned,loss = 0.957).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=450,Learned,loss = 0.979).png' /> </p>
-<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=50,Learned,loss = 1.539).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=500,Learned,loss = 0.946).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=550,Learned,loss = 0.946).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=600,Learned,loss = 0.926).png' /> </p>
@@ -17,6 +17,7 @@
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=800,Learned,loss = 0.94).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=850,Learned,loss = 0.95).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 001,step=900,Learned,loss = 0.918).png' /> </p>
+<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=050,Learned,loss = 0.913).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=100,Learned,loss = 0.903).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=150,Learned,loss = 0.914).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=200,Learned,loss = 0.907).png' /> </p>
@@ -25,7 +26,6 @@
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=350,Learned,loss = 0.895).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=400,Learned,loss = 0.932).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=450,Learned,loss = 0.899).png' /> </p>
-<p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=50,Learned,loss = 0.913).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=500,Learned,loss = 0.9).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=550,Learned,loss = 0.89).png' /> </p>
 <p align="center"> <img src= 'all_figs/MLP(n_h_l = 5, n_n = 64,Run=1,Epoch = 002,step=600,Learned,loss = 0.906).png' /> </p>
