@@ -1,101 +1,102 @@
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0000.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0001.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0002.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0003.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0004.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0005.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0006.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0007.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0008.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0009.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0010.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0011.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0012.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0013.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0014.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0015.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0016.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0017.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0018.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0019.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0020.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0021.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0022.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0023.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0024.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0025.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0026.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0027.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0028.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0029.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0030.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0031.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0032.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0033.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0034.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0035.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0036.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0037.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0038.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0039.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0040.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0041.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0042.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0043.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0044.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0045.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0046.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0047.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0048.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0049.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0050.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0051.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0052.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0053.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0054.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0055.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0056.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0057.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0058.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0059.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0060.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0061.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0062.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0063.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0064.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0065.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0066.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0067.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0068.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0069.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0070.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0071.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0072.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0073.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0074.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0075.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0076.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0077.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0078.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0079.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0080.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0081.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0082.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0083.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0084.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0085.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0086.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0087.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0088.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0089.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0090.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0091.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0092.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0093.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0094.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0095.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0096.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0097.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0098.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0099.png' /> </p>
-<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0100.png' /> </p>
+
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0000, Step = 00.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0001, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0002, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0003, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0004, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0005, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0006, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0007, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0008, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0009, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0010, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0011, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0012, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0013, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0014, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0015, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0016, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0017, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0018, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0019, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0020, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0021, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0022, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0023, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0024, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0025, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0026, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0027, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0028, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0029, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0030, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0031, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0032, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0033, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0034, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0035, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0036, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0037, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0038, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0039, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0040, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0041, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0042, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0043, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0044, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0045, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0046, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0047, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0048, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0049, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0050, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0051, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0052, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0053, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0054, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0055, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0056, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0057, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0058, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0059, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0060, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0061, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0062, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0063, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0064, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0065, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0066, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0067, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0068, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0069, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0070, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0071, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0072, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0073, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0074, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0075, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0076, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0077, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0078, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0079, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0080, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0081, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0082, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0083, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0084, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0085, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0086, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0087, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0088, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0089, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0090, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0091, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0092, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0093, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0094, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0095, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0096, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0097, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0098, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0099, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN, Run = 2, Epoch = 0100, Step = 16.png' /> </p>
