@@ -1,0 +1,15 @@
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0000,step=00,UnLearned,loss = 0.481).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=04,Learned,loss = 0.453).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=08,Learned,loss = 0.431).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=12,Learned,loss = 0.406).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=16,Learned,loss = 0.377).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=04,Learned,loss = 0.341).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=08,Learned,loss = 0.322).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=12,Learned,loss = 0.278).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=16,Learned,loss = 0.264).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0003,step=16,Learned,loss = 0.257).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0004,step=16,Learned,loss = 0.234).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0005,step=16,Learned,loss = 0.212).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0006,step=16,Learned,loss = 0.16).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0007,step=16,Learned,loss = 0.071).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN-SF(n_h_l = 5, n_n = 32,Run=1,Epoch = 0008,step=16,Learned,loss = 0.04).png' /> </p>

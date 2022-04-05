@@ -1,0 +1,12 @@
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0000, Step = 00.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0001, Step = 04.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0001, Step = 08.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0001, Step = 12.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0001, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0002, Step = 04.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0002, Step = 08.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0002, Step = 12.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 0002, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 2000, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 3000, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN, Run = 1, Epoch = 4000, Step = 16.png' /> </p>

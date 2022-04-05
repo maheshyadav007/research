@@ -1,0 +1,12 @@
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0000,step=00,loss = 0.492).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0001,step=04,loss = 0.457).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0001,step=08,loss = 0.422).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0001,step=12,loss = 0.373).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0001,step=16,loss = 0.32).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0002,step=04,loss = 0.291).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0002,step=08,loss = 0.256).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0002,step=12,loss = 0.244).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0002,step=16,loss = 0.239).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0003,step=16,loss = 0.16).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0004,step=16,loss = 0.059).png' /> </p>
+<p align="center"> <img src= 'all_figs/Preds(DLGN-SF, Run=1,Epoch = 0005,step=16,loss = 0.042).png' /> </p>

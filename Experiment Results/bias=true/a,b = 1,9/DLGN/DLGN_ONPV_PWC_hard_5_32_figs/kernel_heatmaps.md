@@ -1,0 +1,17 @@
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0000,step=00,UnLearned,loss = 0.497).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=04,Learned,loss = 0.436).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=08,Learned,loss = 0.379).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=12,Learned,loss = 0.335).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0001,step=16,Learned,loss = 0.33).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=04,Learned,loss = 0.307).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=08,Learned,loss = 0.281).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=12,Learned,loss = 0.267).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0002,step=16,Learned,loss = 0.254).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0003,step=16,Learned,loss = 0.23).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0004,step=16,Learned,loss = 0.198).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0005,step=16,Learned,loss = 0.156).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0006,step=16,Learned,loss = 0.101).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0007,step=16,Learned,loss = 0.073).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0008,step=16,Learned,loss = 0.058).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0009,step=16,Learned,loss = 0.051).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 32,Run=1,Epoch = 0010,step=16,Learned,loss = 0.047).png' /> </p>
