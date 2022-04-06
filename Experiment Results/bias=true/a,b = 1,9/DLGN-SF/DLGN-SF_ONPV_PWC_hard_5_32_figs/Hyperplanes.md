@@ -7,3 +7,6 @@
 <p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0002, Step = 08.png' /> </p>
 <p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0002, Step = 12.png' /> </p>
 <p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0002, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0003, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0004, Step = 16.png' /> </p>
+<p align="center"> <img src= 'all_figs/Hyperplanes DLGN-SF, Run = 1, Epoch = 0005, Step = 16.png' /> </p>
