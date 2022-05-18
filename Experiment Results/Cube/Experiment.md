@@ -7,4 +7,4 @@ DLGN_BOTH_soft
 DLGN_ONPV_hard 
 ![acc_epoch_DLGN_ONPV_hard](https://user-images.githubusercontent.com/32334380/166095130-d74d647d-1436-4b7e-aba6-a93a9528dd29.png)
 
-
+SVM-RBF(gamma=3, C = 25000)(seed = 1) : Train Error: 2.125% , Test Error : 7.67%, Vali Error : 7.67%
