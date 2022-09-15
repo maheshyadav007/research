@@ -1,3 +1,4 @@
 <p align="center"> <img src= 'all_figs/hyp_posneg_epsilon = 1.5.png' /> </p>
 <p align="center"> <img src= 'all_figs/hyp_posneg_local_usefulness = 1.5.png' /> </p>
 <p align="center"> <img src= 'all_figs/hyp_posneg_ratio_epsilon = 1.5.png' /> </p>
+<p align="center"> <img src= 'all_figs/hyp_total_posneg_epsilon = 1.5.png' /> </p>

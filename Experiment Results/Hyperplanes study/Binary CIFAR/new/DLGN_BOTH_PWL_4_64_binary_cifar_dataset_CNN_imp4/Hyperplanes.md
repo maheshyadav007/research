@@ -6,3 +6,6 @@
 <p align="center"> <img src= 'all_figs/hyp_posneg_ratio_epsilon = 0.1.png' /> </p>
 <p align="center"> <img src= 'all_figs/hyp_posneg_ratio_epsilon = 0.3.png' /> </p>
 <p align="center"> <img src= 'all_figs/hyp_posneg_ratio_epsilon = 0.8.png' /> </p>
+<p align="center"> <img src= 'all_figs/hyp_total_posneg_epsilon = 0.1.png' /> </p>
+<p align="center"> <img src= 'all_figs/hyp_total_posneg_epsilon = 0.3.png' /> </p>
+<p align="center"> <img src= 'all_figs/hyp_total_posneg_epsilon = 0.8.png' /> </p>
