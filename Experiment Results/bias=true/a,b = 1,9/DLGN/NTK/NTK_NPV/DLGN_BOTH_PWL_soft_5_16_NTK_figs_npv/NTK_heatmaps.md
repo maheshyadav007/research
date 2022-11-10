@@ -1,0 +1,11 @@
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 000,step=00,UnLearned,loss = 0.448).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 003,step=16,Learned,loss = 0.254).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 004,step=16,Learned,loss = 0.248).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 005,step=16,Learned,loss = 0.24).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 006,step=16,Learned,loss = 0.22).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 007,step=16,Learned,loss = 0.205).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 008,step=16,Learned,loss = 0.194).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 009,step=16,Learned,loss = 0.192).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 010,step=16,Learned,loss = 0.179).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 020,step=16,Learned,loss = 0.137).png' /> </p>
+<p align="center"> <img src= 'all_figs/DLGN(n_h_l = 5, n_n = 16,Run=1,Epoch = 200,step=16,Learned,loss = 0.009).png' /> </p>
