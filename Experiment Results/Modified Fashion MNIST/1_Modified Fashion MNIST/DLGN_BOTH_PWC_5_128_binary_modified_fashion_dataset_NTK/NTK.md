@@ -1,0 +1,12 @@
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00000,step=000,Le.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=1124,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=1686,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=562,Le.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00010,step=1875,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00020,step=1875,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00000,step=000,Le.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=1124,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=1686,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=562,Le.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00010,step=1875,L.png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00020,step=1875,L.png /> </p>
