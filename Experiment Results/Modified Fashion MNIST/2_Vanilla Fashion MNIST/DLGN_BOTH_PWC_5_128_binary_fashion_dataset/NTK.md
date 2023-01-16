@@ -1,0 +1,13 @@
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00000,step=000,Learned,train_loss=2.304,train_acc=10.0,test_loss=[2.304, 2.337, 2.271],test_acc=[10.0, 0.0, 20.0],YKYs = 1.00E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=1124,Learned,train_loss=0.455,train_acc=82.92,test_loss=[0.492, 0.613, 0.372],test_acc=[82.05, 77.84, 86.26],YKYs = 4.21E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=1686,Learned,train_loss=0.417,train_acc=84.47,test_loss=[0.453, 0.491, 0.416],test_acc=[83.31, 83.58, 83.04],YKYs = 4.10E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=562,Learned,train_loss=0.515,train_acc=81.23,test_loss=[0.551, 0.689, 0.413],test_acc=[79.93, 76.12, 83.74],YKYs = 3.93E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00010,step=1875,Learned,train_loss=0.221,train_acc=91.51,test_loss=[0.337, 0.412, 0.263],test_acc=[88.0, 85.24, 90.76],YKYs = 3.62E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00020,step=1875,Learned,train_loss=0.154,train_acc=94.15,test_loss=[0.373, 0.447, 0.299],test_acc=[88.4, 86.12, 90.68],YKYs = 4.05E+0 ).png /> </p>
+
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00000,step=000,Learned,train_loss=2.304,train_acc=10.0,test_loss=[2.304, 2.3, 2.308],test_acc=[10.0, 20.0, 0.0],YKYs = 1.00E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=1124,Learned,train_loss=0.468,train_acc=82.56,test_loss=[0.499, 0.59, 0.408],test_acc=[81.46, 78.46, 84.46],YKYs = 3.83E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=1686,Learned,train_loss=0.419,train_acc=84.17,test_loss=[0.452, 0.535, 0.368],test_acc=[83.2, 81.46, 84.94],YKYs = 3.62E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00001,step=562,Learned,train_loss=0.513,train_acc=80.91,test_loss=[0.549, 0.713, 0.385],test_acc=[79.09, 72.82, 85.36],YKYs = 3.72E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00010,step=1875,Learned,train_loss=0.233,train_acc=90.83,test_loss=[0.342, 0.448, 0.235],test_acc=[87.78, 84.5, 91.06],YKYs = 4.17E+0 ).png /> </p>
+<p align="center"> <img src= all_NTK_figs/DLGN(n_h_l=5,n_n=128,Run=2,Epoch=00020,step=1875,Learned,train_loss=0.164,train_acc=93.53,test_loss=[0.392, 0.463, 0.321],test_acc=[88.05, 85.52, 90.58],YKYs = 3.65E+0 ).png /> </p>
