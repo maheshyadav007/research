@@ -26,8 +26,8 @@
 <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0324).png /> </p>
 <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0333).png /> </p>
 <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0342).png /> </p> -->
-<p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0351).png /> </p>
-<p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0360).png /> </p>
+<p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0351).p.png /> </p>
+<p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0360).p.png /> </p>
 <!-- <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0369).png /> </p>
 <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0378).png /> </p>
 <p align="center"> <img src= all_NTK_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0387).png /> </p>
