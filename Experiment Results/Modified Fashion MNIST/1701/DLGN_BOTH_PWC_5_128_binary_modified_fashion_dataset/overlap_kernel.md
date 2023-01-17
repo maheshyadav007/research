@@ -1,5 +1,5 @@
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00000,step=0000)..png /> </p>
-<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0009)..png /> </p>
+<!-- <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0009)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0018)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0027)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0036)..png /> </p>
@@ -9,9 +9,9 @@
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0072)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0081)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0090)..png /> </p>
-<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0099)..png /> </p>
+<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0099)..png /> </p> -->
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0108)..png /> </p>
-<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0117)..png /> </p>
+<!-- <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0117)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0126)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0135)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0144)..png /> </p>
@@ -22,5 +22,5 @@
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0189)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0198)..png /> </p>
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00010,step=1875)..png /> </p>
-<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00020,step=1875)..png /> </p>
+<p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00020,step=1875)..png /> </p> -->
 <p align="center"> <img src= all_figs/DLGN(n_h_l=5,n_n=128,Run=1,Epoch=00030,step=1875)..png /> </p>

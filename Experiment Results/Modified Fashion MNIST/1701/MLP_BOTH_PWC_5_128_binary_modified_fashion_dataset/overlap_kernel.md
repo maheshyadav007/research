@@ -1,5 +1,5 @@
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00000,step=0000).p.png /> </p>
-<p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0009).p.png /> </p>
+<!-- <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0009).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0018).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0027).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0036).p.png /> </p>
@@ -9,7 +9,7 @@
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0072).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0081).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0090).p.png /> </p>
-<p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0099).p.png /> </p>
+<p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0099).p.png /> </p> -->
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0108).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0117).p.png /> </p>
 <p align="center"> <img src= all_figs/MLP(n_h_l=5,n_n=128,Run=1,Epoch=00001,step=0126).p.png /> </p>
