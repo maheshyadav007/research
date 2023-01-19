@@ -13,11 +13,13 @@ DLGN test
 ![DLGN_test_graphs](https://user-images.githubusercontent.com/32334380/213403875-d67eb758-b3f0-4101-9a82-4212d9ddc50b.png)
 
 DLGN train
-![DLGN_train_graphs](https://user-images.githubusercontent.com/32334380/213403887-a91d0d5b-eec5-4949-b73a-ed95d599da90.png)
+![DLGN_train_graphs](https://user-images.githubusercontent.com/32334380/213410178-36ed10cb-9431-4d0c-bf4c-f5b1831dc089.png)
+
 
 MLP test
 ![MLP_test_graphs](https://user-images.githubusercontent.com/32334380/213403889-d402a4f5-bd76-448a-af7b-54b8d83d1473.png)
 
 MLP train
-![MLP_train_graphs](https://user-images.githubusercontent.com/32334380/213403895-73126304-5af9-43ae-89fa-725f7cfd3fc8.png)
+![MLP_train_graphs](https://user-images.githubusercontent.com/32334380/213410205-e25107f0-07c7-4124-9dbb-9a844a7ae641.png)
+
 
