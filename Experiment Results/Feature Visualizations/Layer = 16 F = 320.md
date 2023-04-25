@@ -1,4 +1,5 @@
 ![iter0000](https://user-images.githubusercontent.com/32334380/234188994-6d5277c4-4885-44f0-af0e-daee0ddb19d5.jpg)
+![Example 0000](./all images/DLGNR34_layer_vis_l=16_f=320/iter0000.jpg)
 
 
 ![iter0050](https://user-images.githubusercontent.com/32334380/234189001-e3a4fcf0-f2dc-46e4-950f-3889f542aadc.jpg)
